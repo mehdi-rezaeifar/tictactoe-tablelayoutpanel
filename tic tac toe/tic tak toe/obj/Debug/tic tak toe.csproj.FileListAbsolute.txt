@@ -1,0 +1,30 @@
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\obj\Debug\tic tak toe.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\obj\Debug\tic_tak_toe.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\obj\Debug\tic_tak_toe.Properties.Resources.resources
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\obj\Debug\tic tak toe.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\obj\Debug\tic tak toe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\bin\Debug\tic tak toe.exe.config
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\bin\Debug\tic tak toe.exe
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\bin\Debug\tic tak toe.pdb
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\obj\Debug\tic tak toe.exe
+C:\Users\ASUS-GL552VW\source\repos\tic tak toe\tic tak toe\obj\Debug\tic tak toe.pdb
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\bin\Debug\tic tak toe.exe.config
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\bin\Debug\tic tak toe.exe
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\bin\Debug\tic tak toe.pdb
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\obj\Debug\tic tak toe.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\obj\Debug\tic_tak_toe.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\obj\Debug\tic_tak_toe.Properties.Resources.resources
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\obj\Debug\tic tak toe.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\obj\Debug\tic tak toe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\obj\Debug\tic tak toe.exe
+C:\Users\ASUS-GL552VW\source\repos\tic tac toe\tic tak toe\obj\Debug\tic tak toe.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\bin\Debug\tic tak toe.exe.config
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\bin\Debug\tic tak toe.exe
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\bin\Debug\tic tak toe.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\obj\Debug\tic tak toe.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\obj\Debug\tic_tak_toe.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\obj\Debug\tic_tak_toe.Properties.Resources.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\obj\Debug\tic tak toe.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\obj\Debug\tic tak toe.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\obj\Debug\tic tak toe.exe
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\tic tac toe\tic tak toe\obj\Debug\tic tak toe.pdb
